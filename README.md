@@ -1,10 +1,8 @@
 # Departmental-Data-Analysis
 A system/dashboard to computerize traditional method of attendance and work on departmental data and see insights of absentism.
-//
-//
-//
-ABSTRACT
-The effective analysis of data is crucial for informed decision-making in any department. To 
+<br>//
+<br>ABSTRACT
+<br>The effective analysis of data is crucial for informed decision-making in any department. To 
 develop a robust system for departmental data analysis, it is necessary to follow a structured 
 approach. This abstract outline the steps to be taken for proposing a new system for 
 departmental data analysis. The first step is to define the goals and objectives of the data 
@@ -23,4 +21,4 @@ analysis, departments can develop a structured and efficient approach to analyzi
 essential to have a clear understanding of what kind of data is required and what insights the 
 department hopes to gain from analyzing it. Ultimately, a reliable data analysis system can help 
 departments achieve their goals and drive organizational success.
-//
+<br>//
